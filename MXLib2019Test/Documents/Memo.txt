@@ -1,0 +1,10 @@
+﻿# Reference Assembly List
+
+Assembly              Version     NuGet gallery link
+--------------------  ----------  ---------------------------------------------------------------------
+NUnit                 3.5.0       https://www.nuget.org/packages/NUnit/3.5.0
+
+
+# NuGet console for packages installation
+# NUnit 
+Install-Package NUnit -Version 3.5.0

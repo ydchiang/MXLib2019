@@ -1,0 +1,7 @@
+you pre-register the profiler DLLs using the regsvr32 utility where applicable for your environment.
+
+Run
+regsvr32 x86\OpenCover.Profiler.dll
+regsvr32 x64\OpenCover.Profiler.dll
+
+Before integrated with Jenkins

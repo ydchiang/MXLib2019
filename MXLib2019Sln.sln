@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MXLib2019", "MXLib2019\MXLib2019.csproj", "{07BD2FA0-793D-4C68-8868-E907E1D7701C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MXLib2019Test", "MXLib2019Test\MXLib2019Test.csproj", "{B044911B-3C4F-4F76-B163-B47679D63B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BD2FA0-793D-4C68-8868-E907E1D7701C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BD2FA0-793D-4C68-8868-E907E1D7701C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BD2FA0-793D-4C68-8868-E907E1D7701C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BD2FA0-793D-4C68-8868-E907E1D7701C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B044911B-3C4F-4F76-B163-B47679D63B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B044911B-3C4F-4F76-B163-B47679D63B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B044911B-3C4F-4F76-B163-B47679D63B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B044911B-3C4F-4F76-B163-B47679D63B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

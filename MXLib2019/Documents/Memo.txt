@@ -1,0 +1,10 @@
+﻿# Reference Assembly List
+
+Assembly              Version     NuGet gallery link
+--------------------  ----------  ---------------------------------------------------------------------
+NLog                  4.4.13      https://www.nuget.org/packages/NLog/4.4.13
+
+
+# NuGet console for packages installation
+# NLog 
+Install-Package NLog -Version 4.4.13
